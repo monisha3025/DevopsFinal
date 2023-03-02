@@ -18,7 +18,7 @@ function About() {
           human potential. We do that by creating groundbreadddking sport
           innovations, by making our products more sustainably, by building a
           creative and diverse global team and by making a positive impact in
-          communities where sacascawe live and work. Based in Beaverton, Oregon, NIKE,
+          communities where we live and work. Based in Beaverton, Oregon, NIKE,
           Inc. incluascacvfvz des the Nike, Converse, and Jordan brands.
         </p>
       </div>
