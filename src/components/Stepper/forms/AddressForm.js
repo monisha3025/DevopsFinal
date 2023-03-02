@@ -41,7 +41,7 @@ const AddressForm = ({ handleNext }) => {
           .max(99999, "Must be 99999 or less")
           .min(1, "Must be at least 00001")
           .required("required")
-          .length(5),
+          .length(6),
 
         // Validate country
         country: Yup.string()
